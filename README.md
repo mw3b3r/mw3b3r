@@ -35,8 +35,9 @@ Business & Marketing Analytics: Google Analytics, Ads Data, Financial Reporting
 ## 📂 Projects
 
 - [🔗 Webscraping-CNB](https://github.com/mw3b3r/Webscraping-CNB) – Scraping exchange rates from Czech National Bank
+- [🔗 Webscraping-CSFD](https://github.com/mw3b3r/Webscraping-CSFD) – This project extracts and analyzes data from the TOP 1000 films on ČSFD (Czech-Slovak Film Database)
 - 🚧 More projects coming soon...
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:your@email.com)  
+- [LinkedIn](https://www.linkedin.com/in/martinaw3b3r/)
+- [Email](mart.wbr@gmail.com)  
