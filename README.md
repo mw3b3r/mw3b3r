@@ -36,6 +36,8 @@ Business & Marketing Analytics: Google Analytics, Ads Data, Financial Reporting
 
 - [🔗 Webscraping-CNB](https://github.com/mw3b3r/Webscraping-CNB) – Scraping exchange rates from Czech National Bank
 - [🔗 Webscraping-CSFD](https://github.com/mw3b3r/Webscraping-CSFD) – This project extracts and analyzes data from the TOP 1000 films on ČSFD (Czech-Slovak Film Database)
+- 📦 [E-commerce Analysis – Part 1 (Cleaning)](https://github.com/mw3b3r/ecommerce-analysis-part1-cleaning) – Data cleaning and preprocessing of e-commerce transactions using Python (Pandas)
+- 📊 [E-commerce Analysis – Part 2 (Dashboard)](https://github.com/mw3b3r/ecommerce-analysis-part2-visualisation) – Interactive Streamlit dashboard for analyzing cleaned sales data
 - 🚧 More projects coming soon...
 
 ## 📫 Let's Connect!
