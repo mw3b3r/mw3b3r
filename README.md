@@ -17,8 +17,6 @@ My expertise spans multiple domains, including **Google Ads data, AI model train
 
 🎯 Strong communication skills – bridging data insights with business needs
 
-🚀 Currently building my portfolio in data analytics & visualization
-
 
 ## 🛠 Technologies & Tools
 
